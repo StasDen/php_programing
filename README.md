@@ -1,6 +1,6 @@
 # php_programing
 
-PHP crash course and even a little project
+php_exercises
 
 Studying PHP  
 Implementing PHP courses/projects and more  
